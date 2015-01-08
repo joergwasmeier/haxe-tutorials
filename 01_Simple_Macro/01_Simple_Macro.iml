@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="HAXE_MODULE" version="4">
+  <component name="HaxeModuleSettingsStorage">
+    <option name="haxeTarget" value="JavaScript" />
+    <option name="mainClass" value="A_01_Setter_Macro" />
+    <option name="outputFileName" value="simpleTest" />
+    <option name="outputFolder" value="$PATH_TO_LIB$/Projekte/haxe-tutorials/out/production/01_Simple_Macro" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$PATH_TO_LIB$/Projekte/haxe-tutorials/out/production/01_Simple_Macro" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Haxe" jdkType="Haxe toolkit" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
